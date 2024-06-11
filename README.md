@@ -15,13 +15,16 @@
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with C#, C++ , and Dot Net, or anything related to web development.
 - ⚡ Fun Fact: I love playing Football.
-- 🏢 I'm a Good Problem Solver, Check out my CodeForces account https://codeforces.com/profile/BadryAnas.
 
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/badryanas" target="_blank"><img src="https://img.shields.io/badge/Badry%2020Anas-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/badryanasbadry" target="_blank"><img src="https://img.shields.io/badge/-Badry%2020Anas-0077B5?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/badryanas" target="_blank"><img src="https://img.shields.io/badge/Badry%20Anas-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/badryanasbadry" target="_blank"><img src="https://img.shields.io/badge/-Badry%20Anas-0077B5?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
+  ### Problem Solving Accounts :
+<a href="https://leetcode.com/u/BadryAnas/" target="_blank"><img src="https://img.shields.io/badge/-Badry%20Anas-0077B5?style=for-the-badge&logo=Leetcode&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/BadryAnas" target="_blank"><img src="https://img.shields.io/badge/-Badry%20Anas-0077B5?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
