@@ -13,7 +13,7 @@
 
 - 🏢 I'm a Software Engineer.
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with C#, C++ , and Dot Net, or anything related to web development.
+- 💬 Ask me about my experience with C#, C++, Linq, SQL, and Dot Net, or anything related to web development.
 - ⚡ Fun Fact: I love playing Football.
 
 
